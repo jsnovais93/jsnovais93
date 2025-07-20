@@ -14,3 +14,5 @@ Sou apaixonada por administração, tecnologia e resolução de problemas.
 <!-- STATS -->
 ![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsnovais93&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jsnovais93&theme=tokyonight&locale=pt_BR)
+
+- **Organizador de Imposto de Renda** – Planilha em Excel que organiza rendimentos, deduções e gera relatórios para IR. [Veja o projeto →](organizador_imposto_renda/)
