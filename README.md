@@ -19,3 +19,4 @@ Sou apaixonada por administração, tecnologia e resolução de problemas.
 
 - **Simulador de Investimentos** – Planilha em Excel que ajusta aporte e rendimento conforme perfil do investidor (conservador, moderado, arrojado). [Confira o projeto →](planilha_investimentos/)
 - **Organizador de Imposto de Renda** – Planilha em Excel que reúne rendimentos, deduções e gera relatórios prontos para a declaração do IR. [Confira o projeto →](organizador_imposto_renda/)
+- **Dashboard de Vendas do XBOX** – Planilha em Excel com botões interativos e dados para visualização de vendas entre dois produtos XBOX. [Confira o projeto →](dashboard_vendas_xbox/)
