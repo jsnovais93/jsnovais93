@@ -15,4 +15,7 @@ Sou apaixonada por administração, tecnologia e resolução de problemas.
 ![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsnovais93&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jsnovais93&theme=tokyonight&locale=pt_BR)
 
-- **Organizador de Imposto de Renda** – Planilha em Excel que organiza rendimentos, deduções e gera relatórios para IR. [Veja o projeto →](organizador_imposto_renda/)
+## 📂 Projetos em Destaque
+
+- **Simulador de Investimentos** – Planilha em Excel que ajusta aporte e rendimento conforme perfil do investidor (conservador, moderado, arrojado). [Confira o projeto →](planilha_investimentos/)
+- **Organizador de Imposto de Renda** – Planilha em Excel que reúne rendimentos, deduções e gera relatórios prontos para a declaração do IR. [Confira o projeto →](organizador_imposto_renda/)
