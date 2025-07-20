@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👩🏻‍💻 Jéssica Novais
+**Bacharel em Administração | Analista de Dados em Desenvolvimento**
 
-<!--
-**jsnovais93/jsnovais93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Jéssica dos Santos Novais, tenho 32 anos, sou natural de Goiânia – Goiás.  
+Sou apaixonada por administração, tecnologia e resolução de problemas.  
+🔗 [LinkedIn](https://www.linkedin.com/in/jsnovais93) • 📫 Contato: j.novais@hotmail.com.br
 
-Here are some ideas to get you started:
+<!-- BADGES -->
+![GitHub followers](https://img.shields.io/github/followers/jsnovais93?style=for-the-badge&logo=github&label=Seguidores)
+![GitHub stars](https://img.shields.io/github/stars/jsnovais93?style=for-the-badge&logo=github&label=Estrelas)
+![Excel Avançado](https://img.shields.io/badge/Excel–Avançado-blue?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-Em_Desenvolvimento-yellow?style=for-the-badge&logo=power-bi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- STATS -->
+![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsnovais93&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jsnovais93&theme=tokyonight&locale=pt_BR)
